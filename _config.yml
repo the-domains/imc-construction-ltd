@@ -10,7 +10,13 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+opengraph:
+  type: ''
+  appId: 'https://www.facebook.com/IMC-Construction-Ltd-312295822298642/'
 layout_spectrum: 0.8576254036743194
+author:
+  name: roderick bryan
+  email: bryan@imcbuildit.com
 name: IMC Construction Ltd
 title: design-build
 description: your vision and we build it
