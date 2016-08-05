@@ -1,4 +1,3 @@
-layout_spectrum: 0.8576254036743194
 typography_spectrum: 0.10981093533337116
 color:
   brandStrength: 0.9704511109739542
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8576254036743194
 name: IMC Construction Ltd
 title: design-build
+description: your vision–we build it
